@@ -8,7 +8,7 @@ I'm most interested in Mobile and Web development
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [eliebamunoba@gmail.com](mailto:eliebamunoba@gmail.com)
-* 🧠  I'm currently learning 
+* 🧠  I'm currently learning Flask framework
 * 🤝  I'm open to collaborating on interesting Projects
 * ⚡  I enjoy learning new technology
 
