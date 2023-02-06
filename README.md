@@ -12,6 +12,11 @@ I'm most interested in Mobile and Web development
 * 🤝  I'm open to collaborating on interesting Projects
 * ⚡  I enjoy learning new technology
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=ElieBamunoba&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ElieBamunoba" /> </p>
+
+
 ### Skills
 
 <p align="left">
@@ -39,6 +44,9 @@ I'm most interested in Mobile and Web development
 
 <b>My GitHub Stats</b>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElieBamunoba&" alt="ElieBamunoba" /></p>
+
 <a href="http://www.github.com/ElieBamunoba"><img src="https://github-readme-stats.vercel.app/api?username=ElieBamunoba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElieBamunoba's GitHub stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieBamunoba&layout=compact)](https://github.com/ElieBamunoba)
+
