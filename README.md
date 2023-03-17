@@ -44,7 +44,6 @@ I'm most interested in Mobile and Web development
 
 <b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElieBamunoba&" alt="ElieBamunoba" /></p>
 
 <a href="http://www.github.com/ElieBamunoba"><img src="https://github-readme-stats.vercel.app/api?username=ElieBamunoba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b&icon_color=ffa500&bg_color=ffffff&hide_border=true&show_icons=true" alt="ElieBamunoba's GitHub stats" /></a>
 
