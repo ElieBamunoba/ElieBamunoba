@@ -40,12 +40,6 @@ I'm most interested in Mobile and Web development
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/ElieBamunoba#2495" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ElieBamunoba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/elie_b.t/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elie-bamunoba-3478451b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ElieBamunoba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/ElieBamunoba"><img src="https://github-readme-stats.vercel.app/api?username=ElieBamunoba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b&icon_color=ffa500&bg_color=ffffff&hide_border=true&show_icons=true" alt="ElieBamunoba's GitHub stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieBamunoba&layout=compact)](https://github.com/ElieBamunoba)
 
