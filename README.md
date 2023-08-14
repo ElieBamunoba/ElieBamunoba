@@ -18,7 +18,7 @@ I'm most interested in Mobile and Web development
         alt="ElieBamunoba" /> </p>
 
 ### Website
-https://elietb.com
+www.elietb.com
 
 ### Skills
 
