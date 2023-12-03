@@ -1,4 +1,4 @@
-![Uploading Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner.png…]()
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://github.com/ElieBamunoba/ElieBamunoba/assets/78250384/765c3190-390f-4001-a417-2d860d601ac0)
 
 Hi 👋 My name is Elie Bamunoba
 ==============================
