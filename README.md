@@ -3,7 +3,7 @@
 Hi 👋 My name is Elie Bamunoba
 ==============================
 
-I'm a Software Engineer
+I'm a Software & DevOps Engineer
 -----------------------
 
 I'm most interested in Mobile and Web development
