@@ -8,7 +8,7 @@ I'm a Software & DevOps Engineer
 
 I'm most interested in Mobile and Web development
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Bunia, Ituri - DR. Congo
 * ✉️  You can contact me at [eliebamunoba@gmail.com](mailto:eliebamunoba@gmail.com)
 * 🧠  I'm currently learning
 * 🤝  I'm open to collaborating on interesting Projects
